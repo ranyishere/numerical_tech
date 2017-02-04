@@ -3,4 +3,4 @@ This library turns algorithims in "Numerical Analysis by Richard L. Burden and J
 into a python library.
 
 ## Techniques
--- Bisection Method
+- Bisection Method
